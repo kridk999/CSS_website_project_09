@@ -1,10 +1,10 @@
-baseURL = "https://peterampazzo.github.io/project-website-template/"
+baseURL = "https://kridk999.github.io/CSS_website_project_09/"
 title = "Project Title"
 description = "This is a project description"
 relativeURLs = true
 theme = "theme" 
 [params]
-    authors = ["Henrik Nielsen", "Inga Jensen", "Mikkel Andersen"]
+    authors = ["Henrik Nielsen", "Inga Jensen", "Jacob"]
     notebook = "/explainer-notebook.html"
     data = "https://drive.google.com"
     github = "https://github.com/peterampazzo/project-website-template"
@@ -17,4 +17,3 @@ theme = "theme"
     [[params.nav]]
         label = "Text"
         link = "/text-analysis"
-
